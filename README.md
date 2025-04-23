@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2c997351-a27c-4d33-965d-0c9e285ae6e1)Rapport Technique – API de Gestion des Tâches:
+Rapport Technique – API de Gestion des Tâches:
 Nom du projet : API REST de gestion des tâches
 Technologies utilisées : Node.js, Express.js
 Auteur : Imad MRABET
