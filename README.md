@@ -1,4 +1,4 @@
-Rapport Technique – API de Gestion des Tâches:
+![image](https://github.com/user-attachments/assets/2c997351-a27c-4d33-965d-0c9e285ae6e1)Rapport Technique – API de Gestion des Tâches:
 Nom du projet : API REST de gestion des tâches
 Technologies utilisées : Node.js, Express.js
 Auteur : Imad MRABET
@@ -16,6 +16,20 @@ Date : Avril 2025
    Prérequis :
    Node.js installé (v14+)
    NPM (Node Package Manager)
+
+
+2.	Configuration de serveur Express.js
+A.	Initialiser le projet
+Initialisation du projet Node.js avec la commande :
+	npm init -y
+
+
+Installation des dépendances nécessaires pour le backend :
+	npm install express cors body-parser
+
+B.	Development de code exerpress.js
+Implémentation de « CRUD » au niveau du serveur 
+
 
 
 
